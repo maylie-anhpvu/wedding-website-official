@@ -4,7 +4,7 @@
         margin: 0 auto;
     }
 
-    .intro-content {
+    .invitation-content {
         display: inline-block;
         width: 70%;
     }
@@ -181,7 +181,7 @@
         transition-delay: 0.30s
     }
 
-    .intro-content {
+    .invitation-content {
         display: inline-block;
         width: 75%;
         margin-bottom: 30px;
@@ -216,17 +216,17 @@
         margin-top: 0;
     }
 
-    .events .leftcol {
+    .details .leftcol {
         padding: 0 15px;
         margin-bottom: 15px;
         border-right: none;
     }
 
-    .events .rightcol {
+    .details .rightcol {
         padding: 0 20px;
     }
     
-    #eng-pics .img-wrap {
+    #wedding-pics .img-wrap {
         border-radius: 0;
     }
 
@@ -257,7 +257,7 @@
         padding-top: 100%;
     }
 
-    #eng-pics .img-wrap i {
+    #wedding-pics .img-wrap i {
         font-size: 25px;
         position: absolute;
         width: 25px;

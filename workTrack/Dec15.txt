@@ -1,0 +1,5 @@
+- change logo to ours (header/menu bar)
+- take out from (header/menu bar)
+	travel guide. venue
+- change photos in moments
+- fix/add our own rsvp
